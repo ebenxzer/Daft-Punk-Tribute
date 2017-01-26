@@ -1,0 +1,62 @@
+<body>
+	<div class="container">
+	<div class="jumbotron">
+		<div class="row">
+			<!-- title -->
+			<div class="col-md-10 col-md-offset-1">
+				<h1 class="text-center">Daft Punk</h1>
+				<h2 class="text-center"><em>French electronic music Gods</em></h2>
+
+				<!-- photo & caption -->
+				<div class="thumbnail">
+					<img src="http://www.daftpunk-anthology.com/wp-content/uploads/wp-BD-galleries/160902070956.jpg" alt="Daft Punk hero image.">
+					<div class="caption text-center">Thomas Bangalter & Guy-Manuel de Homem-Christo as their alter egos, Daft Punk.</div>
+				</div>
+
+				<!-- timeline -->
+				<h3 class="text-center">Notable events to their journey to God-status:</h3>
+				<ul>
+					<li><strong>1987:</strong> Thomas, and Guy meet while attending the Lycée Carnot, a secondary school in Paris.</li>
+					<li><strong>1992:</strong> Forms a band with now guitarist for Phoenix, Laurent Brancowitz called <em>Darlin'</em>.</li>
+					<li><strong>1993:</strong> Thomas, and Guy attend a rave at EuroDisney, and meet the co-founder of Soma Quality Recordings.</li>
+					<li><strong>1994:</strong> Daft Punk's debut single "The New Wave" gains limited release.</li>
+					<li><strong>1995:</strong> They return to the studio to record "Da Funk", their first commercially successful single the same year.</li>
+					<li><strong>1996:</strong> The duo signs with Virgin Records.</li>
+					<li><strong>1997:</strong> They release their debut album <em>Homework</em>.</li>
+					<li><strong>2001:</strong> <em>Discovery</em> is released which initally stuns fans due to previous material in <em>Homework</em> which was more simple with little to no 70's/80's samples. They also release their first live album <em>Alive 1997</em>.</li>
+					<li><strong>2003:</strong> The duo releases feature-length animated film, <em>Interstellar 5555: The 5tory of the 5ecret 5star 5system</em>.</li>
+					<li><strong>2005:</strong> The duo releases their third album, <em>Human After All</em> which receives mixed reviews citing its overly repetitive nature, and seemingly rushed recording. The robots release an official statement stating that "we believe
+						<em>Human After All</em> speaks for itself."</li>
+					<li><strong>2007:</strong> The duo release their second live album, <em>Alive 2007</em>.</li>
+					<li><strong>2008:</strong> The duo appeared at the Grammys alongside Kanye West for their first televised performance.</li>
+					<li><strong>2009:</strong> The duo win Grammy Awards for <em>Alive 1997</em>, and "Harder, Better, Faster, Stronger (Alive 2007)". It was announced at the San Diego Comic-con that the duo composed 24 tracks for the film <em>Tron: Legacy</em>.</li>
+					<li><strong>2010:</strong> The duo were admitted into the Ordre des Arts et des Lettres, an order of merit of France. Thomas, and Guy were individually awarded the rank of <em>Chevalier</em> (knight).</li>
+					<li><strong>2013:</strong> The duo announced their third album <em>Random Access Memories</em> which was is their first album with their new record label Sony Music Entertainment through the Columbia Records label.</li>
+					<li><strong>2014:</strong> The duo wins Grammys in multiple categories.</li>
+					<li><strong>2016:</strong> The duo works with The Weeknd on his album <em>Starboy</em>, and finally reaches #1 on the Billboard Hot 100 with the song of the same name "Starboy".</li>
+					<li><strong>2017:</strong> It is rumored that the duo will go on tour this year as they have every 10 years starting with Alive 1997 though rumors have been confirmed to be fake. <span class="text-danger">#AManCanDream</span></li>
+				</ul>
+
+				<!-- quote -->
+				<blockquote class="text-center">
+					<p>"Daft Punk would not exist if there was no technology."</p>
+					<cite>- <a href="https://www.brainyquote.com/quotes/quotes/t/thomasbang711545.html" target="_blank">Thomas Bangalter</a>
+					</cite>
+				</blockquote>
+
+				<!-- suggestion -->
+				<h3 class="text-center">If you have time, you should read more about the duo on <a href="https://en.wikipedia.org/wiki/Daft_Punk" target="_blank">Wikipedia</a>.</h3>
+			</div>
+		</div>
+		<!-- row -->
+	</div>
+	<!-- jumbotron -->
+</div>
+<!-- container -->
+</body>
+
+<!--footer -->
+<hr>
+
+<footer class="text-center"> Made with &hearts; by <a href="https://www.ebenezergavieres.com" target="_blank">Ebenezer Gavieres</a>
+</footer>
